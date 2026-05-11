@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://sitemaps.org">
+
+
+  <!-- Página principal -->
+  <url>
+    <loc>https://ikerforeronavarro-arch.github.io/Practica-00/Práctica_08-C-index.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Otra página -->
+  <url>
+    <loc>https://ikerforeronavarro-arch.github.io/Practica-00/Práctica_08-C-asir1.html</loc>
+    <lastmod>2026-04-29</lastmod>
+    <priority>0.8</priority>
+  </url>
+	
+ <url>
+    <loc>https://ikerforeronavarro-arch.github.io/Practica-00/Práctica_08-C-asir2.html</loc>
+    <lastmod>2026-04-29</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+   <url>
+    <loc>https://ikerforeronavarro-arch.github.io/Practica-00/Práctica_08-C-daw1.html</loc>
+    <lastmod>2026-04-29</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+   <url>
+    <loc>https://ikerforeronavarro-arch.github.io/Practica-00/Práctica_08-C-daw2.html</loc>
+    <lastmod>2026-04-29</lastmod>
+    <priority>0.8</priority>
+  </url>
+</urlset>
